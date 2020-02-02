@@ -1,10 +1,10 @@
-#  LUMIRC Algorithm for Robust Face Recognition
+#  Laplacian-Uniform Mixture-Driven Iterative Robust Coding With Applications to Face Recognition Against Dense Errors
 
 ### Introduction
 
 This is the original **MATLAB** implementation for our TNNLS paper, ***Laplacian-Uniform Mixture-Driven Iterative Robust Coding With Applications to Face Recognition Against Dense Errors***.
 
-The MATLAB source codes for EYB experiments and AR experiments can be found in Occlusion&Corruption_experiment folder and Real_disguise&Corruption_experiment folder, corresponding to SectionIV-B and SectionIV-C in our paper respectively.  Although we have no right to share them directly, test datasets can be publicly accessed via Internet. The test data will require certain pre-processing and the source codes will require modification according to how you structured your data. Details can be found in our paper.
+The MATLAB source codes for EYB experiments and AR experiments can be found in Occlusion&Corruption_experiment folder and Real_disguise&Corruption_experiment folder, corresponding to SectionIV-B and SectionIV-C in our paper, respectively.  Although we have no right to share them directly, test datasets can be publicly accessed via Internet. The test data will require certain pre-processing and the source codes will require modification according to how you structure your data. Details can be found in our paper.
 
 ###  Reference  
 
@@ -25,4 +25,4 @@ If you find it interesting and want to use it for discussion or comparison in yo
 
 ###  Contact
 
-If you have any question about the paper, feel free to contact the corresponding author through mail zhenghch@mail.sysu.edu.cn
+If you have any question about the paper, feel free to contact the corresponding author through email: zhenghch@mail.sysu.edu.cn
