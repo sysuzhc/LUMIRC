@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This is the original **MATLAB** implementation for our TNNLS paper, ***Laplacian-Uniform Mixture-Driven Iterative Robust Coding With Applications to Face Recognition Against Dense Errors***. It reports an recognition accuracy of **93.8%** on EYB when 90% of the facial pixels are corrupted.
+This is the original **MATLAB** implementation for our TNNLS paper, ***Laplacian-Uniform Mixture-Driven Iterative Robust Coding With Applications to Face Recognition Against Dense Errors***. It reports a recognition accuracy of **93.8%** on EYB when 90% of the facial pixels are corrupted.
 
 The MATLAB source codes for EYB experiments and AR experiments can be found in Occlusion&Corruption_experiment folder and Real_disguise&Corruption_experiment folder, corresponding to SectionIV-B and SectionIV-C in our paper, respectively. The corresponding datasets can be publicly accessed via Internet. The following is an overview of the proposed approach. Details can be found in our paper.
 
