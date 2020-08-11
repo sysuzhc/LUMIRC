@@ -1,4 +1,4 @@
-#  Laplacian-Uniform Mixture-Driven Iterative Robust Coding With Applications to Face Recognition Against Dense Errors
+#  Robust Face Recognition Against Dense Errors
 
 ### Introduction
 
